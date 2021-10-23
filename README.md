@@ -1,2 +1,3 @@
 # Blog_layout
- simple responsive layout for blog
+responsive layout for blog
+i've used: flex, media queries, api fonts
