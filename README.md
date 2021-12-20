@@ -1,5 +1,5 @@
 # Blog_layout
-#### Responsive layout for blog
+#### Responsive layout from HTML/CSS tutorial
 ---
 #### I've used: 
 1. flex
